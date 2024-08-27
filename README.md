@@ -1,6 +1,6 @@
-# Account Marketplace
+# Gamersbuy: Account Marketplace
 
-Welcome to the **Account Marketplace** project! This is a WordPress-based site designed for buying and selling various types of accounts. Whether you're looking to purchase an account or list your own for sale, this platform aims to provide a seamless experience for both buyers and sellers.
+Welcome to the **Gamersbuy**! This is a WordPress-based site designed for buying and selling various types of accounts. Whether you're looking to purchase an account or list your own for sale, this platform aims to provide a seamless experience for both buyers and sellers.
 
 ## Live Site
 
