@@ -1,0 +1,32 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+wp-content/plugins/
+wp-content/themes/
+
+# Ignore wp-config.php, which contains sensitive information
+wp-config.php
+
+# Ignore custom uploads and cache directories
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# Ignore the development and build files
+*.log
+*.sql
+*.sql.gz
+
+# Ignore the WordPress install directory if it's within a subdirectory
+wordpress/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore local environment settings
+.env
