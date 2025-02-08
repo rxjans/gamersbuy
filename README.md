@@ -2,7 +2,7 @@
 
 Welcome to the **Gamersbuy**! This is a WordPress-based site designed for buying and selling various types of accounts. Whether you're looking to purchase an account or list your own for sale, this platform aims to provide a seamless experience for both buyers and sellers.
 
-## Live Site
+## Hosted @
 
 You can access the live site at: [gamersbuy.gg](https://gamersbuy.gg)
 
